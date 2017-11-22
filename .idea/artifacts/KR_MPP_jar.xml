@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KR_MPP:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="KR_MPP.jar">
+      <element id="module-output" name="KR_MPP" />
+    </root>
+  </artifact>
+</component>
